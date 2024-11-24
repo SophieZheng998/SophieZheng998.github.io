@@ -37,7 +37,7 @@ redirect_from:
       <p style="margin-bottom: 50px;"><strong>National University of Singapore</strong><br>
       2021.8 - 2023.1 <br>
       School of Computing<br>
-      M.S. degree in Computer Science<br>
+      M.S. degree in Artificial Intelligence<br>
       <!-- GPA: 3.93/4.0 Rank: 10/121<br> -->
       </p>
     </div>
@@ -56,6 +56,7 @@ redirect_from:
       </p>
     </div>
   </div>
+  <br>
   <!-- 第三组图片和段落 -->
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
