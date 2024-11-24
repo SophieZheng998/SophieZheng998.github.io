@@ -61,8 +61,8 @@ author_profile: true
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
       <p style="margin-bottom: 50px;"><strong>Invariant collaborative filtering to popularity distribution shift</strong><br>
-      <span style="font-size: 14px;"><strong>An Zhang, <strong>Jingnan Zheng</strong>, Xiang Wang†, Yancheng Yuan, Tat-Seng Chua</span><br>
-      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Learn disentangled representations in collaborative filtering.</i></span><br>
+      <span style="font-size: 14px;">An Zhang, <strong>Jingnan Zheng</strong>, Xiang Wang†, Yancheng Yuan, Tat-Seng Chua</span><br>
+      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>-- Learning disentangled representations in collaborative filtering.</i></span><br>
     <span style="font-size: 14px; "><strong>WWW, 2023 (CCF A)</strong> &nbsp;&nbsp; <a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583461">[Paper]</a> <a href="https://github.com/anzhang314/InvCF">[code]</a></span>
     </p>
     </div>
