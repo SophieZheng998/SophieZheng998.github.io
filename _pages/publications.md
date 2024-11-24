@@ -71,7 +71,7 @@ author_profile: true
   <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../paper_imgs/popgo.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/popgo.png" style="width: 100%; height: auto; margin-top: 10px;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
@@ -86,7 +86,7 @@ author_profile: true
    <div style="display: flex; align-items: flex-start;">
     <!-- 图片部分（1/3） -->
     <div style="flex: 1;">
-      <img src="../paper_imgs/oag-bert.png" style="width: 100%; height: auto;">
+      <img src="../paper_imgs/oag-bert.png" style="width: 100%; height: auto; margin-top: 10px;">
     </div>
     <!-- 文字部分（2/3） -->
     <div style="flex: 2; padding-left: 20px;">
