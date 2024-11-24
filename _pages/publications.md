@@ -68,6 +68,37 @@ author_profile: true
     </div>
   </div>
 
+  <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
+      <img src="../paper_imgs/popgo.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 2; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>Robust collaborative filtering to popularity distribution shift</strong><br>
+      <span style="font-size: 14px;">An Zhang, Wenchang Ma, <strong>Jingnan Zheng</strong>, Xiang Wang†, Tat-Seng Chua</span><br>
+      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>--An effective debiasing strategy to quantifies and reduces the interaction-wise popularity shortcut in collaborative filtering.</i></span><br>
+    <span style="font-size: 14px; "><strong>TOIS, 2023 (CCF A)</strong> &nbsp;&nbsp; <a href="https://dl.acm.org/doi/pdf/10.1145/3627159">[Paper]</a> <a href="https://github.com/anzhang314/PopGo">[code]</a></span>
+    </p>
+    </div>
+  </div>
+
+   <div style="display: flex; align-items: flex-start;">
+    <!-- 图片部分（1/3） -->
+    <div style="flex: 1;">
+      <img src="../paper_imgs/oag-bert.png" style="width: 100%; height: auto;">
+    </div>
+    <!-- 文字部分（2/3） -->
+    <div style="flex: 2; padding-left: 20px;">
+      <p style="margin-bottom: 50px;"><strong>Oag-bert: Towards a unified backbone language model for academic knowledge services</strong><br>
+      <span style="font-size: 14px;">Xiao Liu*, Da Yin*, <strong>Jingnan Zheng</strong>, Xingjian Zhang, Peng Zhang, Hongxia Yang, Yuxiao Dong, Jie Tang†</span><br>
+      <span style="font-size: 14px; font-family: 'Times New Roman';"><i>--An effective debiasing strategy to quantifies and reduces the interaction-wise popularity shortcut in collaborative filtering.</i></span><br>
+    <span style="font-size: 14px; "><strong>KDD, 2022 (CCF A)</strong> &nbsp;&nbsp; <a href="https://dl.acm.org/doi/pdf/10.1145/3534678.3539210">[Paper]</a> <a href="https://github.com/THUDM/OAG-BERT">[code]</a></span>
+    </p>
+    </div>
+  </div>
+
+
 </div>
 
 
